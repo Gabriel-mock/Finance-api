@@ -37,6 +37,19 @@ A personal finance REST API built with FastAPI for user authentication, income t
 - **Backend** – FastAPI API server  
 - **Authentication** – JWT tokens  
 
+## API Endpoints
+
+POST /register – Create user account  
+POST /login – Authenticate user and return JWT token  
+
+GET /income – View income records  
+POST /income – Add income  
+
+GET /expenses – View expenses  
+POST /expenses – Add expense  
+
+GET /summary – Financial summary
+
 ### Routes
 - Income tracking
 - Expense tracking
