@@ -44,7 +44,7 @@ A personal finance REST API built with FastAPI for user authentication, income t
 - Financial summaries  
 
 - **Database** – SQLite with SQLAlchemy ORM
-- 
+  
 ## Project Structure
 
 ```
