@@ -31,20 +31,20 @@ A personal finance REST API built with FastAPI for user authentication, income t
 
 ## Architecture
 
-Frontend (Dashboard / Web App)
-        │
-        ▼
-FastAPI Backend
-        │
-        ├── Authentication (JWT)
-        ├── Income Routes
-        ├── Expense Routes
-        ├── Budget Management
-        └── Financial Summary
-        │
-        ▼
-Database (SQLite / SQLAlchemy)
+## Architecture
 
+- **Frontend** – Dashboard / Web App  
+- **Backend** – FastAPI API server  
+- **Authentication** – JWT tokens  
+
+### Routes
+- Income tracking
+- Expense tracking
+- Budget management
+- Financial summaries  
+
+- **Database** – SQLite with SQLAlchemy ORM
+- 
 ## Project Structure
 
 ```
