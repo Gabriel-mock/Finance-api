@@ -29,6 +29,22 @@ A personal finance REST API built with FastAPI for user authentication, income t
 
 ![API Docs](images/api-docs.png)
 
+## Architecture
+
+Frontend (Dashboard / Web App)
+        │
+        ▼
+FastAPI Backend
+        │
+        ├── Authentication (JWT)
+        ├── Income Routes
+        ├── Expense Routes
+        ├── Budget Management
+        └── Financial Summary
+        │
+        ▼
+Database (SQLite / SQLAlchemy)
+
 ## Project Structure
 
 ```
