@@ -22,8 +22,8 @@ A personal finance REST API built with FastAPI for user authentication, income t
 
 ## Live Demo
 
-* API: https://your-render-link.onrender.com
-* Docs: https://your-render-link.onrender.com/docs
+* API: https://finance-api-5ydp.onrender.com
+* Docs: https://finance-api-5ydp.onrender.com/docs
 
 ## API Documentation
 
