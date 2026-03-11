@@ -41,7 +41,9 @@ This project is a backend service designed to help users manage their personal f
 * **API Documentation:**
   https://finance-api-5ydp.onrender.com/docs
 
----
+API Documentation
+
+![API Docs](images/api-docs.png)
 
 ## Architecture
 
